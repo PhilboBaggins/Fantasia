@@ -1,0 +1,19 @@
+XFAN 80
+=======
+
+Specifications
+--------------
+
+| ----------------- | ------------- |
+| Overall dimension | 80x80x25mm    |
+| Fan dimension     | 80x80x25mm    |
+| Weight            | 82g           |
+| Rated voltage     | 12VDC         |
+| Operating voltage | 10.8~13.2VDC  |
+| Starting voltage  | 7VDC          |
+| Rated current     | 0.08±10%A     |
+| Power input       | 0.96W         |
+| Fan speed         | 180±10%RPM    |
+| Max air flow      | 21.8CFM       |
+| Moise level       | 20.3dB(A)     |
+| Bearing type      | Hydro bearing |
